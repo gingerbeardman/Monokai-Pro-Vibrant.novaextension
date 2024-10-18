@@ -1,11 +1,11 @@
 meta {
   -theme-interface-style: dark;
-  -theme-vibrancy: none;
+  -theme-vibrancy: vibrant;
   -theme-accent-color: auto;
 }
 meta.window {
   background-color: #191919;
-  border-color: rgba(0, 0, 0, 0.2);
+  border-color: rgba(0, 0, 0, 0.1);
 }
 meta.titlebar {
   color: #fcfcfa;
@@ -69,7 +69,7 @@ meta.text.invisible {
   color: rgba(127, 127, 127, 0.25);
 }
 meta.text.selected {
-  background-color: rgba(127, 127, 127, 0.25);
+  background-color: rgba(69, 69, 69, 0.75);
 }
 meta.cursor {
   background-color: rgba(127, 127, 127, 0.25);
