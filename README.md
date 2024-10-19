@@ -8,4 +8,6 @@ _This is an unofficial Monokai Pro theme by Tony Keiser. Credit goes to Monokai 
 
 This **Vibrant** fork has been modified by gingerbeardman to use vibrant window style so that there are more obvious differences between focused and unfocused windows. Some other small usability changes were made to Spectrum and Pro variations so that selected text is visible in all situations.
 
+## Monokai Pro is not free
+
 Get a licence to use Monokai Pro from the original creator: [https://monokai.pro](https://monokai.pro)
