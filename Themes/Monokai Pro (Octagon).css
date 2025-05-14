@@ -120,6 +120,7 @@ javascript.comment.block,
 processing,
 declaration {
   color: #818394;
+  font-style: italic;
 }
 
 bracket,
